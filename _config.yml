@@ -152,7 +152,7 @@ links_layout: block
 # links_layout: inline
 links:
   # Title: http://example.com/
-  BagaKing: http://bagaking.com/
+  # BagaKing: http://bagaking.com/
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
