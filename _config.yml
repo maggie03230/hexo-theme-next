@@ -54,7 +54,7 @@ footer:
   copyright: Mageek♥BagaKing
   # -------------------------------------------------------------
   # Hexo link (Powered by Hexo).
-  powered: true
+  powered: false
 
   theme:
     # Theme & scheme info link (Theme - NexT.scheme).
@@ -63,8 +63,8 @@ footer:
     version: false
   # -------------------------------------------------------------
   # Any custom text can be defined here.
-  custom_text: Hosted by <a href="https://pages.coding.me">Coding Pages</a>
-
+  custom_text: <a href="http://www.beian.miit.gov.cn" target="_blank" rel="nofollow" >沪ICP备18012963号-1</a> 
+  # Hosted by <a href="https://pages.coding.me">Coding Pages</a>
   # custom_text: Hosted by <a target="_blank" href="https://pages.github.com">GitHub Pages</a>
 
 # ---------------------------------------------------------------
